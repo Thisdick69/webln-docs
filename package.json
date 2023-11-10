@@ -15,7 +15,7 @@
     "@emotion/styled": "^11.11.0",
     "@mdx-js/react": "^2.3.0",
     "@next/mdx": "^13.4.9",
-    "antd": "^5.6.4",
+    "antd": "^5.10.1",
     "bolt11": "^1.4.1",
     "framer-motion": "^10.12.18",
     "next": "13.4.9",
